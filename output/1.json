@@ -1,0 +1,12 @@
+{
+  "dna": "01",
+  "name": "#1",
+  "description": "Project Gupi",
+  "image": "https://nft/1.png",
+  "edition": 1,
+  "date": 1631366871335,
+  "attributes": [
+    { "trait_type": "Tail Shape", "value": "Round" },
+    { "trait_type": "Tail Pattern", "value": "Half Snake" }
+  ]
+}
